@@ -1,0 +1,12 @@
+C:\YoutubeLecture\CommonLib\bin\Debug\net6.0\CommonLib.deps.json
+C:\YoutubeLecture\CommonLib\bin\Debug\net6.0\CommonLib.dll
+C:\YoutubeLecture\CommonLib\bin\Debug\net6.0\CommonLib.pdb
+C:\YoutubeLecture\CommonLib\obj\Debug\net6.0\CommonLib.csproj.AssemblyReference.cache
+C:\YoutubeLecture\CommonLib\obj\Debug\net6.0\CommonLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\YoutubeLecture\CommonLib\obj\Debug\net6.0\CommonLib.AssemblyInfoInputs.cache
+C:\YoutubeLecture\CommonLib\obj\Debug\net6.0\CommonLib.AssemblyInfo.cs
+C:\YoutubeLecture\CommonLib\obj\Debug\net6.0\CommonLib.csproj.CoreCompileInputs.cache
+C:\YoutubeLecture\CommonLib\obj\Debug\net6.0\CommonLib.dll
+C:\YoutubeLecture\CommonLib\obj\Debug\net6.0\refint\CommonLib.dll
+C:\YoutubeLecture\CommonLib\obj\Debug\net6.0\CommonLib.pdb
+C:\YoutubeLecture\CommonLib\obj\Debug\net6.0\ref\CommonLib.dll
