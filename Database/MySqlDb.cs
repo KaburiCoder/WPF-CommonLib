@@ -84,6 +84,7 @@ namespace CommonLib.Database
       _conn?.Close();
       _conn?.Dispose();
       _conn = null;
+      GC.SuppressFinalize(this);
     }
   }
 }
